@@ -1,0 +1,156 @@
+h1{
+	text-align:center;
+}
+body{
+	background-color: #aef0c4;
+	text-align: center;
+}
+.card{
+	background-color: white;
+	width: 18%;
+	text-align: center;
+	border: 1px solid black;
+	border-radius:5px;
+	display: inline-block;
+}
+img{
+	width: 100%;
+}
+.button{
+	background-color: #aef0c4;
+	width: 125px;
+	display: inline-block;
+	border-radius: 10px;
+	color: #524f4e;
+	text-decoration: none;
+	margin: 15px;
+	padding:2.5px;
+}
+.menu_item{
+	color: slategray;
+	text-decoration: none;
+	margin: 25px;
+	font-size: 25;
+	display: inline-block;
+	border: 1px solid black;
+	padding:10px;
+	width: 200px;
+	border-radius: 15px;
+	background-color: white;
+	box-shadow:2px -5px 3px black;
+}
+table{
+	width: 100%;
+	border-collapse: collapse;
+}
+.basic{
+	background-color: #ff0f83;
+	color: white;
+}
+.pro{
+	background-color:#0083f5;
+	color: white;
+}
+.gold{
+	background-color: #6400de;
+	color: white;
+}
+.platinum{
+	background-color: #fca103;
+	color: white;
+}
+td{
+	border-bottom: 1px dashed gray;
+	border-right: 1px dashed gray;
+	border-left: 1px dashed gray;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+	padding-top: 30px;
+	text-align: center;
+}
+th{
+	padding-left: 10px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+	padding-top: 30px;
+	height: 200px;
+	border-top-right-radius:20px;
+	border-top-left-radius:20px;
+	font-size:25px;
+	text-shadow: 2px 2px 2px black;
+}
+.tarif_basic{
+	border: 1px solid black;
+	padding: 20px 5px;
+	border-radius: 45px;
+	width:250px;
+	display: inline-block;
+	background-color:#ff0f83;
+	text-decoration: none;
+	color: white;
+	font-size: 18px;
+	box-shadow: 2px 0.5px 7px black;
+	margin: 5px;
+}
+.tarif_pro{
+	border: 1px solid black;
+	padding: 20px 5px;
+	border-radius: 45px;
+	width:250px;
+	display: inline-block;
+	background-color:#0083f5;
+	text-decoration: none;
+	color: white;
+	font-size: 18px;
+	box-shadow: 2px 0.5px 7px black;
+	margin: 5px;
+}
+.tarif_gold{
+	border: 1px solid black;
+	padding: 20px 5px;
+	border-radius: 45px;
+	width:250px;
+	display: inline-block;
+	background-color:#6400de;
+	text-decoration: none;
+	color: white;
+	font-size: 18px;
+	box-shadow: 2px 0.5px 7px black;
+	margin: 5px;
+}
+.tarif_platium{
+	border: 1px solid black;
+	padding: 20px 5px;
+	border-radius: 45px;
+	width:250px;
+	display: inline-block;
+	background-color:#fca103;
+	text-decoration: none;
+	color: white;
+	font-size: 18px;
+	box-shadow: 2px 0.5px 7px black;
+	margin: 5px;
+}
+tr{
+	background-color: white;
+}
+.gray{
+	background-color:#f5f5f5;
+}
+.td{
+height: 90px;
+}
+.p{
+box-shadow: 1px 4px 8px gray;
+display: inline-block;
+padding: 15px;
+border-radius: 5px;
+font-size: 20px;
+}
+caption{
+color: red;
+font-size: 50px;
+padding: 20px;
+text-shadow: 1px 1px 10px black;
+}
